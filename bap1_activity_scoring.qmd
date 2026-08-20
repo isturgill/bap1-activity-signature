@@ -384,8 +384,6 @@ glance(mod)$adj.r.squared
 
 We have developed a bulk RNA-seq-based transcriptomic profile signature, developed in the TCGA pan-cancer dataset, that identifies tumors that may behave similarly due to the consequences of the loss of *BAP1.* We have examined and characterized the *BAP1* loss signature across contexts (cancer/knockout/development), species (human/mouse), and sequencing modalities (bulk/single-cell RNA-seq). Analyses and results are described in greater detail in [Sturgill et al. 2024](https://doi.org/10.1093/narcan/zcae045) and a follow-up paper investigating Bap1 reduction in mouse models ([Nenad et al. 2026](https://doi.org/10.1093/g3journal/jkag047)).
 
-\![assets/sturgill_bap1.png](assets/sturgill_bap1.png) \![assets/nenad_bap1](assets/nenad_bap1)
-
 # sessionInfo
 
 ```{r}
