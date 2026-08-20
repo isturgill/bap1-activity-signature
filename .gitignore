@@ -1,7 +1,29 @@
 # Ignore all
 *
 
-# Allow
+# Allow root
 !.gitignore
-!data/
+!bap1_activity_scoring.qmd
+!renv.lock
+!.Rprofile
 
+# renv
+!renv/
+!renv/activate.R
+!renv/settings.json
+
+# Data
+!data/
+!data/README.md
+!data/bap1_signature_genes.txt
+!data/sample_anno.txt
+!data/rsem_colnames.txt
+!data/chol_coldata.txt
+!data/lihc_coldata.txt
+!data/GSE215785_meta.txt
+!data/filter_geneset.txt
+
+# Assets
+!assets/
+!assets/sturgill_bap1.png
+!assets/nenad_bap1.png
