@@ -27,3 +27,20 @@
 !assets/
 !assets/sturgill_bap1.png
 !assets/nenad_bap1.png
+
+# Docs
+!docs/
+!docs/index.html
+!docs/index_files/
+!docs/index_files/figure-html/
+!docs/index_files/figure-html/*
+!docs/index_files/libs/
+!docs/index_files/libs/*
+!docs/index_files/libs/bootstrap/
+!docs/index_files/libs/bootstrap/*
+!docs/index_files/libs/clipboard/
+!docs/index_files/libs/clipboard/*
+!docs/index_files/libs/quarto-html/
+!docs/index_files/libs/quarto-html/*
+!docs/index_files/libs/quarto-html/tabsets/
+!docs/index_files/libs/quarto-html/tabsets/tabsets.js
