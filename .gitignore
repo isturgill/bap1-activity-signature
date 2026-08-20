@@ -23,11 +23,6 @@
 !data/GSE215785_meta.txt
 !data/filter_geneset.txt
 
-# Assets
-!assets/
-!assets/sturgill_bap1.png
-!assets/nenad_bap1.png
-
 # Docs
 !docs/
 !docs/index.html
